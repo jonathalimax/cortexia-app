@@ -28,4 +28,5 @@ AI chat app designed to function similarly to ChatGPT, featuring advanced capabi
 </p>
 
 ### Cost tracking
-![output](https://github.com/user-attachments/assets/f13b8716-c59b-44a3-81e3-c15fe341cbd2)
+<img src="https://github.com/user-attachments/assets/216cceab-4eef-4d4e-9f56-7af9ba2e3553" alt="Cost tracking" width="320"/>
+
